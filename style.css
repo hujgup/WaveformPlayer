@@ -1,0 +1,12 @@
+.content {
+	font-family:'Courier New',monospace;
+	font-weight:bold;
+	font-size:14px;
+}
+.metadata {
+	text-align:right;
+	width:50%;
+}
+.clearRight {
+	margin-right:4px;
+}

@@ -1,0 +1,276 @@
+<?xml version="1.0" ?>
+<songs>
+	<!-- Songs ordered by file name -->
+	<song id="highscore" file="_Highscore.mp3">
+		<title>_Highscore_</title>
+		<artist>MashedByMachines</artist>
+		<album>Newgrounds Audio Portal</album>
+	</song>
+	<song id="jungle" file="04 Sburban Jungle.mp3">
+		<title>Sburban Jungle</title>
+		<artist>Michael Guy Bowman</artist>
+		<album>Homestuck Vol. 1-4</album>
+	</song>
+	<song id="anthem" file="05 Homestuck Anthem.mp3">
+		<title>Homestuck Anthem</title>
+		<artist>Clark "Plazmataz" Powell</artist>
+		<album>Homestuck Vol. 5</album>
+	</song>
+	<song id="approach" file="09 Enemy Approaching.mp3">
+		<title>Enemy Approaching</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="dummy" file="36 Dummy!.mp3">
+		<title>Dummy!</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="spear" file="46 Spear of Justice.mp3">
+		<title>Spear of Justice</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="stronger" file="53 Stronger Monsters.mp3">
+		<title>Stronger Monsters</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="chance" file="Another Chance.mp3">
+		<title>Another Chance</title>
+		<artist>Eston "silence" Schweickart</artist>
+		<album>One Year Older</album>
+	</song>
+	<song id="cascade" file="Cascade Beta (Noveria Mix).mp3">
+		<title>Cascade [Beta]</title>
+		<artist>Joren "Tensei" de Bruin (Pitch/Tempo Edit)</artist>
+		<album>Homestuck Vol. 8</album>
+	</song>
+	<song id="civ" file="Civ 3 Gold Intro Song.mp3">
+		<title>[Unnamed Intro Music]</title>
+		<artist>[Unknown]</artist>
+		<album>Civilization 3: Gold Edition Game Files</album>
+	</song>
+	<song id="courser" file="Courser.mp3">
+		<title>Courser</title>
+		<artist>Seth "Beatfox" Peele &amp; Alexander Rosetti</artist>
+		<album>Homestuck Vol. 6: Heir Transparent</album>
+	</song>
+	<song id="earthsea" file="Earthsea Borealis.mp3">
+		<title>Earthsea Borealis</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Homestuck Vol. 7: At the Price of Oblivion</album>
+	</song>
+	<song id="zero" file="EM - Absoulte Zero.mp3">
+		<title>Absolute Zero</title>
+		<artist>Rainbow Kitten (Arrangement Edit)</artist>
+		<album>Enemy Mind OST</album>
+	</song>
+	<song id="caldari" file="EVE - Caldari Rock.mp3">
+		<title>Caldari Rock</title>
+		<artist>J&#xf3;n Hallur</artist>
+		<album>EVE Online OST</album>
+	</song>
+	<song id="excellent" file="HS - The Beginning of Something Really Excellent.mp3">
+		<title>The Beginning of Something Really Excellent</title>
+		<artist>Robert J! Lake</artist>
+		<album>Homestuck Vol. 5</album>
+	</song>
+	<song id="movement" file="HS - Upward Movement.mp3">
+		<title>Upward Movement (Dave Owns)</title>
+		<artist>Robert Blaker (Arrangement Edit)</artist>
+		<album>Homestuck Vol. 1-4</album>
+	</song>
+	<song id="mglvcompound" file="megalovania compound.mp3">
+		<title>meGaLoVania</title>
+		<artist>Toby "Radiation" Fox (Compound Edit)</artist>
+		<album>Earthbound Halloween Hack OST, Homestuck Vol. 6: Heir Transparent, Undertale OST</album>
+	</song>
+	<song id="mgr" file="mgr.mp3">
+		<title>Merry-Go-Round</title>
+		<artist>Allister Brimble (Partial Compound Edit)</artist>
+		<album>RollerCoaster Tycoon 2 Game Files</album>
+	</song>
+	<song id="wings" file="Mike Ault - Angel Wings (feat. Avianna Acid).mp3">
+		<title>Angel Wings</title>
+		<artist>Mike Ault feat. Avianna Acid</artist>
+		<album>Rocket League OST</album>
+	</song>
+	<song id="flying" file="Mike Ault - Flying Forever (feat. Morgan Perry).mp3">
+		<title>Flying Forever</title>
+		<artist>Mike Ault feat. Morgan Perry</artist>
+		<album>Rocket League OST</album>
+	</song>
+	<song id="hush" file="Morituros (Hush Fight).mp3">
+		<title>Morituros</title>
+		<artist>Ridiculon</artist>
+		<album>The Binding of Isaac: Afterbirth OST</album>
+	</song>
+	<song id="wilds" file="Outer Wilds - Main Theme.mp3">
+		<title>Main Theme</title>
+		<artist>Andrew Prahlow</artist>
+		<album>Outer Wilds OST</album>
+	</song>
+	<song id="production" file="Production-RollingAlong.mp3">
+		<title>Production (Rolling Along)</title>
+		<artist>[Unknown]</artist>
+		<album>Railroad Tycoon 3 OST</album>
+	</song>
+	<song id="rain" file="Rain.mp3">
+		<title>Rain</title>
+		<artist>Clark "Plazmataz" Powell</artist>
+		<album>Medium</album>
+	</song>
+	<song id="rocketstrations" file="RL - Flying Forever Rocketstrations Mix.mp3">
+		<title>Rocketstrations - Flying Forever</title>
+		<artist>Mike Ault &amp; Noah Angott (Arrangement Edit)</artist>
+		<album>Soundcloud</album>
+	</song>
+	<song id="lacuna" file="RL - Lacuna.mp3">
+		<title>Lacuna</title>
+		<artist>Mike Ault</artist>
+		<album>Rocket League OST</album>
+	</song>
+	<song id="speak" file="RL - We Speak Chinese.mp3">
+		<title>We Speak Chinese</title>
+		<artist>Mike Ault &amp; Abandoned Carnival</artist>
+		<album>Rocket Leauge OST</album>
+	</song>
+	<song id="savior" file="Savior of the Dreaming Dead.mp3">
+		<title>Savior of the Dreaming Dead</title>
+		<artist>Malcolm Brown (Compound Edit)</artist>
+		<album>Homestuck Vol. 7: At the Price of Oblivion</album>
+	</song>
+	<song id="waking" file="savior waking.mp3">
+		<title>Savior of the Waking World (Piano Mix)</title>
+		<artist>Toby "Radiation" Fox (Full Edit)</artist>
+		<album>Homestuck Vol. 5</album>
+	</song>
+	<song id="skirmish" file="Skaian Skirmish.mp3">
+		<title>Skaian Skirmish</title>
+		<artist>Andrew Huo &amp; Toby "Radiation" Fox</artist>
+		<album>Homestuck Vol. 5</album>
+	</song>
+	<song id="terraform" file="Terraform.mp3">
+		<title>Terraform</title>
+		<artist>Jeremy "Solatrus" Iamurri</artist>
+		<album>Homestuck Volume 8</album>
+	</song>
+	<song id="glub" file="The Vast Glub (Section A - Horrorterror).mp3">
+		<title>The Vast Glub</title>
+		<artist>Kris "Astartus" Flacke (Arrangement Edit)</artist>
+		<album>coloUrs and mayhem: Universe B</album>
+	</song>
+	<song id="turbulence" file="Turbulence.mp3">
+		<title>Turbulence</title>
+		<artist>non_euclidian_melodrama</artist>
+		<album>Turbulence Original Soundtrack</album>
+	</song>
+	<song id="uncharted" file="Uncharted Worlds.mp3">
+		<title>Uncharted Worlds</title>
+		<artist>Sam Hulick</artist>
+		<album>Mass Effect OST</album>
+	</song>
+	<song id="up" file="up.mp3">
+		<title>Up</title>
+		<artist>Olly Murs feat. Demi Lovato (Arrangement/Compound Edit)</artist>
+		<album>Never Been Better</album>
+	</song>
+	<song id="alphys" file="UT - Alphys.mp3">
+		<title>Alphys</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="medium" file="UT - Another Medium.mp3">
+		<title>Another Medium</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="asgore" file="UT - Asgore.mp3">
+		<title>Asgore</title>
+		<artist>Toby "Radiation" Fox (Compound Edit)</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="bone" file="UT - Bonetrousle.mp3">
+		<title>Bonestrousle</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="dating" file="UT - Dating Start!.mp3">
+		<title>Dating Start!</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="glamour" file="UT - Death by Glamour.mp3">
+		<title>Death by Glamour</title>
+		<artist>Toby "Radiation" Fox (Pitch/Tempo Edit)</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="neutral" file="UT - Finale.mp3">
+		<title>Finale</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="heartache" file="UT - Heartache.mp3">
+		<title>Heartache</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="save" file="UT - His Theme.mp3">
+		<title>His Theme</title>
+		<artist>Toby "Radiation" Fox (Pitch/Tempo Edit)</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="truepacifistremix" file="UT - Hopes and Dreams [S.M. Remix].mp3">
+		<title>Hopes and Dreams (S.M. Remix)</title>
+		<artist>Sayonara Maxwell &amp; Toby "Radiation" Fox</artist>
+		<album>Undertale Remixes</album>
+	</song>
+	<song id="truepacifist" file="UT - Hopes and Dreams (SAVE the World).mp3">
+		<title>Hopes and Dreams (SAVE the World)</title>
+		<artist>Toby "Radiation" Fox (Compound Edit)</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="badtime" file="UT - MEGALOVANIA.mp3">
+		<title>MEGAOLOVANIA</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="reunited" file="UT - Reunited.mp3">
+		<title>Reunited</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="ruins" file="UT - Ruins.mp3">
+		<title>Ruins</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="muffet" file="UT - Spider Dance.mp3">
+		<title>Spider Dance</title>
+		<artist>Toby "Radiation" Fox (Arrangement Edit)</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="undertale" file="UT - Undertale.mp3">
+		<title>Undertale</title>
+		<artist>Toby "Radiation" Fox (Arrangement Edit)</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="waterfall" file="UT - Waterfall.mp3">
+		<title>Waterfall</title>
+		<artist>Toby "Radiation" Fox</artist>
+		<album>Undertale OST</album>
+	</song>
+	<song id="muffetremix" file="UT - Spider Dance [SharaX Remix].mp3">
+		<title>Spider Dance (SharaX Remix)</title>
+		<artist>SharaX</artist>
+		<album>Undertale Remixes</album>
+	</song>
+<!--
+	<song id="x" file="x.mp3">
+		<title></title>
+		<artist></artist>
+		<album></album>
+	</song>
+-->
+</songs>
